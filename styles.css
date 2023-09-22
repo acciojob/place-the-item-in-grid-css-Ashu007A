@@ -2,8 +2,8 @@
 
 		.holder {
             display: grid;
-            grid-template-columns: repeat(2, calc(50% - 2.5px));
-            grid-template-rows: repeat(2, calc(50% - 2.5px));
+            grid-template-columns: repeat(2, calc(50% - 5px));
+            grid-template-rows: repeat(2, calc(50% - 5px));
             gap: 10px;
             width: 200px;
             height: 200px;
